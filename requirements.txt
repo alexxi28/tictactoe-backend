@@ -10,3 +10,6 @@ resend
 requests
 httpx
 google-generativeai
+python-socketio
+python-engineio
+bcrypt
