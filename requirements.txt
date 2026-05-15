@@ -11,3 +11,4 @@ resend
 httpx
 python-socketio
 python-engineio
+email-validator
