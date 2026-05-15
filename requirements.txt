@@ -8,4 +8,5 @@ passlib[bcrypt]
 python-multipart
 resend
 requests
+httpx
 google-generativeai
