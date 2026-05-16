@@ -1142,5 +1142,3 @@ app = socket_app
 @fastapi_app.on_event("shutdown")
 async def shutdown():
     client.close()
-
-app = socketio.ASGIApp(sio, other_asgi_app=fastapi_app, socketio_path="socket.io")
